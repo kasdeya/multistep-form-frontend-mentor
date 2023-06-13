@@ -1,0 +1,15 @@
+@import './base.css';
+
+#app {
+    display: flex;
+    align-items: center;
+    background-color: var(--magnolia);
+    height: 100vh;
+}
+
+@media (max-width: 500px) {
+    #app {
+        align-items: baseline;
+        overflow: hidden;
+    }
+}
