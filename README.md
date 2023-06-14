@@ -1,6 +1,6 @@
-# Frontend Mentor - Connect 4
+# Frontend Mentor - Multistep Form
 
-This is a solution to the [Connect 4 challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ).
+This is a solution to the [Multistep Form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ).
 
 ## Preview
 
