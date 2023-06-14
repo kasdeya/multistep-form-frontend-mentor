@@ -1,29 +1,27 @@
-# multi-step-form
+# Frontend Mentor - Connect 4
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Connect 4 challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ).
 
-## Recommended IDE Setup
+## Preview
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![screenshot](./public/screenshot.png)
 
-## Customize configuration
+## Links
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/vue-practice-KBKvzRuh9D)
+- Live Site URL: [Live Solution](https://multistep-form-frontend-mentor.vercel.app/)
 
-## Project Setup
+## Built with
 
-```sh
-npm install
-```
+- Vue
+- HTML5
+- CSS
 
-### Compile and Hot-Reload for Development
+## Author
 
-```sh
-npm run dev
-```
+- Website - [Jesus Venegas](https://www.jesusvenegas.com) (WIP)
+- Frontend Mentor - [@kasdeya](https://www.frontendmentor.io/profile/kasdeya)
 
-### Compile and Minify for Production
+## Acknowledgments
 
-```sh
-npm run build
-```
+- Inspiration by [Front End Mentor](https://www.frontendmentor.io/)
