@@ -10,6 +10,8 @@
 @media (max-width: 500px) {
     #app {
         align-items: baseline;
-        overflow: hidden;
+        background-color: var(--magnolia);
+        /* height: 120vh; */
+        height: 100%;
     }
 }

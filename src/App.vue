@@ -189,6 +189,8 @@ const handleBack = () => {
     padding: 0;
     background-color: var(--magnolia);
     margin: 0;
+    position: relative;
+    min-height: 100vh;
   }
 
   .sidebar {
@@ -212,15 +214,16 @@ const handleBack = () => {
     border-radius: 10px;
     margin-top: -100px;
     box-shadow: 0px 0px 12px 1px #888;
-    /* height: 70vh; */
+    margin-bottom: 100px;
   }
+
 
   .buttons {
     position: absolute;
     background-color: white;
-    bottom: 0;
     left: 0;
     right: 0;
+    bottom: 0;
     padding: 1rem;
   }
 }
